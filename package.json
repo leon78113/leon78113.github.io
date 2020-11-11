@@ -1,0 +1,20 @@
+{
+  "name": "YC",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.7.1",
+    "vuepress": "1.5.4",
+    "vuepress-plugin-google-adsense": "^0.1.1",
+    "vuepress-theme-reco": "1.5.7"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.3",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "description": "Weekly Journal"
+}
